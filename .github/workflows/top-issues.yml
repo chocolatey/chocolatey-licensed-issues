@@ -17,7 +17,7 @@ jobs:
           top_list_size: 10
           label: false
           dashboard: true
-          dashboard_label: "Top Issues Dashboard"
+          dashboard_label: "top issues dashboard"
           dashboard_show_total_reactions: true
           top_issues: true
           top_bugs: true
