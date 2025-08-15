@@ -6,7 +6,7 @@ on:
 
 jobs:
   ShowTopIssues:
-    name: Display top issues
+    name: Display top votes
     runs-on: ubuntu-latest
     steps:
       - name: Run top votes action
